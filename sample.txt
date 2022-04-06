@@ -2,3 +2,7 @@ Chat Application
 
 Message
 Emojis
+
+color
+background
+text
