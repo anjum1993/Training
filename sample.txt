@@ -5,4 +5,3 @@ Emojis
 
 color
 background
-text
